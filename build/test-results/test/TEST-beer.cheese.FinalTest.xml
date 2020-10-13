@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="beer.cheese.FinalTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-10-11T01:22:04" hostname="xxxcrel-Ubuntu" time="0.005">
+  <properties/>
+  <testcase name="testFinal" classname="beer.cheese.FinalTest" time="0.005"/>
+  <system-out><![CDATA[1
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
