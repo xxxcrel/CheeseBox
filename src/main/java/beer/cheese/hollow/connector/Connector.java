@@ -6,7 +6,7 @@ import beer.cheese.hollow.connector.endpoint.AbstractEndpoint;
 import beer.cheese.hollow.connector.endpoint.JIoEndpoint;
 import beer.cheese.hollow.juli.logging.Log;
 import beer.cheese.hollow.juli.logging.LogFactory;
-import beer.cheese.hollow.utils.LifecycleBase;
+import beer.cheese.hollow.util.LifecycleBase;
 
 import java.io.IOException;
 import java.io.OutputStream;

@@ -14,7 +14,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package beer.cheese.hollow.utils;
+package beer.cheese.hollow.util;
 
 import java.lang.reflect.InvocationTargetException;
 

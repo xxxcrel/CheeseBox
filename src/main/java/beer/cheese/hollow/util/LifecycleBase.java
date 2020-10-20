@@ -14,11 +14,10 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package beer.cheese.hollow.utils;
+package beer.cheese.hollow.util;
 
 
 import beer.cheese.hollow.*;
-import beer.cheese.hollow.juli.*;
 import beer.cheese.hollow.juli.logging.Log;
 import beer.cheese.hollow.juli.logging.LogFactory;
 
